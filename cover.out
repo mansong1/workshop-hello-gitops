@@ -1,0 +1,7 @@
+mode: set
+hello-gitops/cmd/main.go:12.13,14.2 1 0
+hello-gitops/cmd/main.go:16.68,20.2 3 0
+hello-gitops/cmd/main.go:22.54,25.16 3 1
+hello-gitops/cmd/main.go:28.2,30.16 3 1
+hello-gitops/cmd/main.go:25.16,27.3 1 0
+hello-gitops/cmd/main.go:30.16,32.3 1 0

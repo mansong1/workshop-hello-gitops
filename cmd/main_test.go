@@ -11,8 +11,8 @@ import (
 func Test_handler(t *testing.T) {
 	host, _ := os.Hostname()
 	type args struct {
-		path string
-		status int
+		path     string
+		status   int
 		expected string
 	}
 	tests := []struct {
